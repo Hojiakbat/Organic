@@ -36,6 +36,10 @@
    gap: 5px;
 }
 
+.more{
+   width: 10px;
+}
+
 .left__header-1 h1 {
    color: rgb(39, 76, 91);
    font-family: Roboto;
